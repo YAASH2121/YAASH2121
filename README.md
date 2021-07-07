@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... programing
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...web development programer
-- 📫 How to reach me ... Instagram Yashlondhe2121
+- 📫 How to reach me ... Instagram 
 
 <!---
 YAASH2121/YAASH2121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
