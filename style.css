@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(29, 146, 5);
+    text-align: center;
+    margin-top: 10px;
+}
+div{
+    color: white;
+
+}
+div input{
+    color: white;
+    background-color: black;
+    
+}
+div button{
+    color: white;
+    outline:none;
+    cursor: pointer;
+    background-color: black;
+    font-weight: 600;
+    letter-spacing: 1px;
+    
+}
